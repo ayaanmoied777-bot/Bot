@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": DangersMc.aternos.me
+    "ip": "DangersMc.aternos.me"
     "port": 43953
-    "version": 1.21.11
+    "version": 1.21.1"
     "try-creative": true
   },
   "position": {
